@@ -1,5 +1,11 @@
-# OHO Tricycle Cargo Bike 🚲
+# OHO Tricycle Cargo Bike
 
-مشروع دراجة ثلاثية لنقل البضائع، مفتوح المصدر، مصمم وفقًا لمعايير OSE Germany، ومتوفر برخصة CERN-OHL-P v2.
+This is an open-source, human-powered cargo tricycle bike designed for sustainable transport.
 
-## 🧩 هيكل المشروع
+## Features
+- Sturdy frame
+- Open-source design
+- Modular cargo space
+
+## License
+CERN-OHL v2.0
